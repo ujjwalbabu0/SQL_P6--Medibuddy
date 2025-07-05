@@ -47,10 +47,15 @@ medibuddy-sql-project/
 
 # File Descriptions
 -- **users.csv** – Contains user information: age, gender, city, and registration date.
+
 -- **consultations.csv** – Details of consultation activities including date, fee, mode, and specialty.
+
 -- **orders.csv** – Medicine purchase records with category and amount.
+
 -- **checkups.csv** – Health checkup bookings with package details and price.
+
 -- **P6_Medibuddy.sql** – All SQL queries (objectives 1–33) answering business, customer, and operational questions.
+
 -- **README.md** – Documentation with project goals, structure, and usage instructions.
 
 ### 1. database_setup
