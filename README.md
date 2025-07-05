@@ -35,13 +35,14 @@ Measure customer lifetime value (LTV), acquisition cost, and post-checkup purcha
 ------------------------------------------------------------------------------------------------
 
 ## 🗂️ Project Structure
--- medibuddy-sql-project/
--- ├── checkups.csv              # Dataset for health checkup bookings
--- ├── consultations.csv         # Dataset for doctor consultations
--- ├── orders.csv                # Dataset for medicine orders
--- ├── users.csv                 # Dataset for user demographics and registration
--- ├── P6_Medibuddy.sql          # Main SQL file with all 33 analytical queries
--- ├── README.md                 # Project overview and documentation
+medibuddy-sql-project/
+├── checkups.csv              # Dataset for health checkup bookings  
+├── consultations.csv         # Dataset for doctor consultations  
+├── orders.csv                # Dataset for medicine orders  
+├── users.csv                 # Dataset for user demographics and registration  
+├── P6_Medibuddy.sql          # Main SQL file with all 33 analytical queries  
+├── README.md                 # Project overview and documentation  
+
 
 # File Descriptions
 -- **users.csv** – Contains user information: age, gender, city, and registration date.
