@@ -78,47 +78,47 @@ The project begins by creating a database named `medibuddy_db` to store all reta
 ![image](https://github.com/user-attachments/assets/1eeb2e86-10a2-4a6a-8742-6fb880b329f1)
 
 ## General & Descriptive Questions
--- 1. total count of registered users, month-wise, with growth rate and cumulative users count?
--- 2. Distribution of users by city and gender?
--- 3.The average age of users per city
--- 4.The most popular consultation specialty
--- 5.Mode split of consultations
--- 6.Monthly medicine orders by category
--- 7.Average medicine order amount per user
+1. total count of registered users, month-wise, with growth rate and cumulative users count?
+2. Distribution of users by city and gender?
+3. The average age of users per city
+4. The most popular consultation specialty
+5. Mode split of consultations
+6. Monthly medicine orders by category
+7. Average medicine order amount per user
 
 ## Profit and Revenue-Based Questions
--- 8.Total revenue from all sources
--- 9.Total and category-wise Revenue by city
--- 10. Average revenue per user
--- 11.Revenue by doctor specialty
--- 12.Revenue by consultation mode
--- 13.Revenue by checkup package
--- 14.Revenue share by service type
+8. Total revenue from all sources
+9. Total and category-wise Revenue by city
+10. Average revenue per user
+11. Revenue by doctor specialty
+12. Revenue by consultation mode
+13. Revenue by checkup package
+14. Revenue share by service type
 
 ## Customer Behavior / Retention / Segmentation
--- 15. Which users have done all 3: consultation, order, and checkup?
--- 16. Repeated users (consulted more than once)?
--- 17.Inactive users (no activity)
--- 18. Segment customers into low, mid, and high spenders based on lifetime value.
--- 19. What is the average time between registration and first activity?
--- 20. Which age group has the most health checkups?
--- 21. Who are the top 10 highest spending customers?
+15. Which users have done all 3: consultation, order, and checkup?
+16. Repeated users (consulted more than once)?
+17. Inactive users (no activity)
+18. Segment customers into low, mid, and high spenders based on lifetime value.
+19. What is the average time between registration and first activity?
+20. Which age group has the most health checkups?
+21. Who are the top 10 highest spending customers?
 
 ## Business Operational Questions
--- 22. Which doctor specialties are underserved in cities?
--- 23. Is there a seasonal trend in consultation?
--- 24. Are more consultations done during weekends or weekdays?
--- 25. Average consultation fee per city
--- 26. How long after registration do users typically place an order or book a checkup
--- 27. % of registered users are inactive (never did anything)
--- 28. Post-checkup medicine correlation (follow-up)
+22. Which doctor specialties are underserved in cities?
+23. Is there a seasonal trend in consultation?
+24. Are more consultations done during weekends or weekdays?
+25. Average consultation fee per city
+26. How long after registration do users typically place an order or book a checkup
+27. % of registered users are inactive (never did anything)
+28. Post-checkup medicine correlation (follow-up)
 
 ## Advanced / Predictive
--- 29. Classify users into behavioral cohorts
--- 30. The lifetime value (LTV) of a user
--- 31. Build a funnel: Registration → Consultation → Order → Checkup. What’s the drop-off?
--- 32. What is the revenue impact if we raise consultation fees by 10%?
--- 33. What’s the average "customer acquisition cost" if we assume ₹500 marketing per new user?
+29. Classify users into behavioral cohorts
+30. The lifetime value (LTV) of a user
+31. Build a funnel: Registration → Consultation → Order → Checkup. What’s the drop-off?
+32. What is the revenue impact if we raise consultation fees by 10%?
+33. What’s the average "customer acquisition cost" if we assume ₹500 marketing per new user?
 
 ------------------------------------------------------------------------------------------------
 
