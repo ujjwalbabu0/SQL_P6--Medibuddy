@@ -47,6 +47,7 @@ medibuddy-sql-project/
 
 # File Descriptions
 -- **users.csv** – Contains user information: age, gender, city, and registration date.
+
 -- **consultations.csv** – Details of consultation activities including date, fee, mode, and specialty.
 
 -- **orders.csv** – Medicine purchase records with category and amount.
@@ -64,10 +65,13 @@ The project begins by creating a database named `medibuddy_db` to store all reta
 - **Table Creation:**
 -- **users**
 -- Stores user demographic details like name, age, gender, city, and registration date.
+
 -- **consultations**
 -- Records doctor consultations including specialty, date, mode (online/offline), and fee.
+
 -- **orders**
 -- Tracks medicine orders with order date, category, and purchase amount.
+
 -- **checkups**
 -- Stores health checkup bookings with package name, booking date, and price.
 
